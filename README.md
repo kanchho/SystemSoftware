@@ -1,2 +1,1 @@
-# SystemSoftware
-Coursework. Spring 2018
+Programming exercises from System Software course, Spring 2018.
